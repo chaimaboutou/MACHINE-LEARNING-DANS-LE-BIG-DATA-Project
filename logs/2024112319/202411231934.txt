@@ -1,0 +1,9 @@
+2024/11/23 19:34:06 | Product purchased | Girls Pink Puffer Jacket | 1 | 300
+2024/11/23 19:34:10 | Hovered over | Girls Colorful Puffer Jacket | 1
+2024/11/23 19:34:16 | Product purchased | Girls Colorful Puffer Jacket | 1 | 450
+2024/11/23 19:34:19 | Hovered over | Colorful Puffer Boys Jacket | 1
+2024/11/23 19:34:24 | Hovered over | Girls Colorful Puffer Jacket | 1
+2024/11/23 19:34:32 | Hovered over | Boys Winter Parka | 1
+2024/11/23 19:34:34 | Hovered over | Boys Winter Parka | 1
+2024/11/23 19:34:40 | Hovered over | Girls Colorful Puffer Jacket | 1
+2024/11/23 19:34:56 | Product purchased | Colorful Puffer Boys Jacket | 1 | 450

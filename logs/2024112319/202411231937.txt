@@ -1,0 +1,9 @@
+2024/11/23 19:37:16 | Product purchased | Women Leather Jacket | 1 | 500
+2024/11/23 19:37:24 | Product purchased | Men Casual Jacket | 1 | 300
+2024/11/23 19:37:30 | Product purchased | Men Casual Jacket | 1 | 300
+2024/11/23 19:37:35 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:37:47 | Hovered over | Colorful Puffer Boys Jacket | 1
+2024/11/23 19:37:49 | Hovered over | Colorful Puffer Boys Jacket | 1
+2024/11/23 19:37:51 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:37:54 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:37:59 | Hovered over | Orange Puffer Boys Jacket | 1

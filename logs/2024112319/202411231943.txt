@@ -1,0 +1,12 @@
+2024/11/23 19:43:07 | Product purchased | Orange Puffer Boys Jacket | 1 | 300
+2024/11/23 19:43:14 | Hovered over | girls-section | 1
+2024/11/23 19:43:22 | Product purchased | Women Leather Jacket | 1 | 500
+2024/11/23 19:43:26 | Hovered over | Ladies Jacket | 1
+2024/11/23 19:43:30 | Product purchased | Women Yellow Coat Jacket | 1 | 320
+2024/11/23 19:43:34 | Product purchased | Women Yellow Coat Jacket | 1 | 320
+2024/11/23 19:43:38 | Product purchased | Women Yellow Coat Jacket | 1 | 320
+2024/11/23 19:43:41 | Hovered over | Ladies Jacket | 1
+2024/11/23 19:43:45 | Product purchased | Ladies Jacket | 1 | 250
+2024/11/23 19:43:49 | Product purchased | Ladies Jacket | 1 | 250
+2024/11/23 19:43:54 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:43:59 | Hovered over | Men Casual Jacket | 1

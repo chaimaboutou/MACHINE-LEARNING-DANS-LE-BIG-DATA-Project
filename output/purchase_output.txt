@@ -1,0 +1,12 @@
+2024/11/23 19:34:10 | Product purchased | Women Yellow Coat Jacket | 6 | 1920
+2024/11/23 19:34:10 | Product purchased | Orange Puffer Boys Jacket | 5 | 1500
+2024/11/23 19:34:10 | Product purchased | Women Leather Jacket | 5 | 2500
+2024/11/23 19:34:10 | Product purchased | Ladies Jacket | 5 | 1250
+2024/11/23 19:34:10 | Product purchased | Boys Winter Parka | 2 | 700
+2024/11/23 19:34:10 | Product purchased | Pink Puffer Coat Girls | 4 | 1400
+2024/11/23 19:34:10 | Product purchased | Girls Colorful Puffer Jacket | 2 | 900
+2024/11/23 19:34:10 | Product purchased | Men Leather Jacket | 3 | 1350
+2024/11/23 19:34:10 | Product purchased | Colorful Puffer Boys Jacket | 4 | 1800
+2024/11/23 19:34:10 | Product purchased | Girls Pink Puffer Jacket | 2 | 600
+2024/11/23 19:34:10 | Product purchased | Men Casual Jacket | 4 | 1200
+2024/11/23 19:34:10 | Product purchased | Snowboard Jacket Men | 3 | 1050

@@ -1,0 +1,11 @@
+2024/11/23 19:35:01 | Product purchased | Men Leather Jacket | 1 | 450
+2024/11/23 19:35:08 | Hovered over | Pink Puffer Coat Girls | 1
+2024/11/23 19:35:11 | Hovered over | Pink Puffer Coat Girls | 1
+2024/11/23 19:35:16 | Product purchased | Women Yellow Coat Jacket | 1 | 320
+2024/11/23 19:35:18 | Hovered over | men-section | 1
+2024/11/23 19:35:22 | Hovered over | women-section | 1
+2024/11/23 19:35:29 | Hovered over | boys-section | 1
+2024/11/23 19:35:35 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:35:40 | Hovered over | girls-section | 1
+2024/11/23 19:35:45 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:35:56 | Product purchased | Girls Pink Puffer Jacket | 1 | 300

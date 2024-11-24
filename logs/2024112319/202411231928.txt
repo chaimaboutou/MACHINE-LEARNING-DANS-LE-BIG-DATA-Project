@@ -1,0 +1,13 @@
+2024/11/23 19:28:00 | Hovered over | Women Leather Jacket | 1
+2024/11/23 19:28:04 | Hovered over | Women Leather Jacket | 1
+2024/11/23 19:28:09 | Product purchased | Women Leather Jacket | 1 | 500
+2024/11/23 19:28:14 | Product purchased | Women Leather Jacket | 1 | 500
+2024/11/23 19:28:19 | Hovered over | Men Casual Jacket | 1
+2024/11/23 19:28:24 | Product purchased | Men Casual Jacket | 1 | 300
+2024/11/23 19:28:29 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:28:32 | Hovered over | Orange Puffer Boys Jacket | 1
+2024/11/23 19:28:35 | Hovered over | Men Casual Jacket | 1
+2024/11/23 19:28:38 | Hovered over | Men Casual Jacket | 1
+2024/11/23 19:28:48 | Product purchased | Colorful Puffer Boys Jacket | 1 | 450
+2024/11/23 19:28:52 | Hovered over | Boys Winter Parka | 1
+2024/11/23 19:28:55 | Hovered over | Boys Winter Parka | 1

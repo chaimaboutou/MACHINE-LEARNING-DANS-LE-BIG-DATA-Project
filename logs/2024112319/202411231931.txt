@@ -1,0 +1,11 @@
+2024/11/23 19:31:02 | Hovered over | Snowboard Jacket Men | 1
+2024/11/23 19:31:20 | Hovered over | Colorful Puffer Boys Jacket | 1
+2024/11/23 19:31:22 | Hovered over | Colorful Puffer Boys Jacket | 1
+2024/11/23 19:31:32 | Hovered over | Women Leather Jacket | 1
+2024/11/23 19:31:37 | Product purchased | Women Leather Jacket | 1 | 500
+2024/11/23 19:31:43 | Product purchased | Ladies Jacket | 1 | 250
+2024/11/23 19:31:46 | Hovered over | Women Yellow Coat Jacket | 1
+2024/11/23 19:31:48 | Hovered over | Snowboard Jacket Men | 1
+2024/11/23 19:31:51 | Hovered over | Snowboard Jacket Men | 1
+2024/11/23 19:31:54 | Hovered over | Women Yellow Coat Jacket | 1
+2024/11/23 19:31:57 | Hovered over | Women Yellow Coat Jacket | 1

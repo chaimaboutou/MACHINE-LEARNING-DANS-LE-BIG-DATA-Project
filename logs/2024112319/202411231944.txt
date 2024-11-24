@@ -1,0 +1,11 @@
+2024/11/23 19:44:02 | Hovered over | Men Casual Jacket | 1
+2024/11/23 19:44:13 | Product purchased | Men Leather Jacket | 1 | 450
+2024/11/23 19:44:16 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:44:19 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:44:23 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:44:26 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:44:29 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:44:32 | Hovered over | Men Leather Jacket | 1
+2024/11/23 19:44:35 | Product purchased | Men Casual Jacket | 1 | 300
+2024/11/23 19:44:54 | Hovered over | men-section | 1
+2024/11/23 19:44:58 | Hovered over | Boys Winter Parka | 1

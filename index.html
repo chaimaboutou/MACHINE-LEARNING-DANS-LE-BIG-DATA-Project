@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Winter Fashion</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+
+<body>
+  <!--Nav bar-->
+  <section class="head-section">
+    <header class="container">
+      <nav class="navbar navbar-expand-lg navbar-light penguin-nabbar">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img src="Images/logo3.png" alt="" class="penguin-logo img-fluid" />
+          </a>
+          <button class=" navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#products">Products</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#about-us">About us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#contact-us">Contact us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+  </section>
+
+  <main>
+    <!--Banner section-->
+    <section class="head-section">
+      <div class="pt-2 pb-5 container">
+        <div class="row d-flex align-items-center">
+          <div class="col-md-6 px-3">
+            <h1 id="text-style">Buy the Sweaters</h1>
+            <h1 class="text-style2">for Winter</h1>
+            <p>
+              Winter Fashion is back with latest styles for this winter. Find
+              the sweaters and jacket of your choice and get with 25%
+              discount. Offer valid just for 5 days.
+            </p>
+            <button type="button" class="btn penguin-btn">
+              <i class="fa fa-shopping-cart"></i> BUY NOW
+            </button>
+          </div>
+          <div class="col-md-6 how-img px-5">
+            <img src="Images/img1.avif" class="img-fluid" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="products">
+      <!--Woman collection section-->
+      <section id="women-section" class="container mt-5">
+        <h1>Woman Jacket</h1>
+        <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+          <div class="col">
+            <div class="card h-100 penguin-card-border shadow rounded" id="women_product_1"
+              data-name="Women Yellow Coat Jacket">
+              <img src="Images/woman/woman-jak1.png" class="card-img-top penguin-card-img w-75" alt="..." />
+              <div class="card-body">
+                <h5 class="card-title">Women Yellow Coat Jacket</h5>
+                <p class="card-text">
+                  Stylish yellow coat for young and beautiful ladies.
+                </p>
+              </div>
+              <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+                <div>
+                  <h3 class="price-text-style">320 DHs</h3>
+                </div>
+                <div>
+                  <button type="button" class="btn penguin-btn" onclick="logPurchase('Women Yellow Coat Jacket', 320)">
+                    <i class="fa fa-shopping-cart"></i> BUY NOW
+                  </button>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100 penguin-card-border shadow rounded" id="women_product_2" data-name="Ladies Jacket">
+              <img src="Images/woman/woman-jak2.png" class="card-img-top penguin-card-img w-75" alt="..." />
+              <div class="card-body">
+                <h5 class="card-title">Ladies Jacket</h5>
+                <p class="card-text">
+                  Jackets for casual wear in best prices and diffrent color
+                  patterns.
+                </p>
+              </div>
+              <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+                <div>
+                  <h3 class="price-text-style">250 DHs</h3>
+                </div>
+                <div>
+                  <button type="button" class="btn penguin-btn" onclick="logPurchase('Ladies Jacket', 250)">
+                    <i class="fa fa-shopping-cart"></i> BUY NOW
+                  </button>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100 penguin-card-border shadow rounded" id="women_product_3"
+              data-name="Women Leather Jacket">
+              <img src="Images/woman/woman-jak3.png" class="card-img-top penguin-card-img w-75" alt="..." />
+              <div class="card-body">
+                <h5 class="card-title">Women Leather Jacket</h5>
+                <p class="card-text">
+                  Leather jackets of premium quality.
+                </p>
+              </div>
+              <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+                <div>
+                  <h3 class="price-text-style">500 DHs</h3>
+                </div>
+                <div>
+                  <button type="button" class="btn penguin-btn" onclick="logPurchase('Women Leather Jacket',500)">
+                    <i class="fa fa-shopping-cart"></i> BUY NOW
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <!--Men collection section-->
+    <section class="container mt-5" id="men-section">
+      <h1 class="penguin-catagory">Men Jacket</h1>
+      <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="men_product_1"
+            data-name="Snowboard Jacket Men">
+            <img src="Images/man/man-jak1.png" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Snowboard Jacket Men</h5>
+              <p class="card-text">
+                Snowboard jacket are ferfect match for people in moutain areas
+                or for tourist.
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">350 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Snowboard Jacket Men', 350)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="men_product_2" data-name="Men Leather Jacket">
+            <img src="Images/man/man-jak3.png" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Men Leather Jacket</h5>
+              <p class="card-text">
+                Perfect bike riding jacket available with different color and
+                sizes.
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">450 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Men Leather Jacket',450)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="men_product_3" data-name="Men Casual Jacket">
+            <img src="Images/man/man-jak2.png" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Men Casual Jacket</h5>
+              <p class="card-text">
+                Matte Black Jacket with all sizes available.
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">300 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Men Casual Jacket',300)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container mt-5" id="boys-section">
+      <h1 class="penguin-catagory">Boys Jacket</h1>
+      <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="boy_product_1" data-name="Boys Winter Parka">
+            <img src="Images/boy/jacket1.png" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Boys Winter Parka </h5>
+              <p class="card-text">
+                The Boy Winter Parka is a warm, stylish coat with a faux fur-trimmed hood, perfect for winter
+                adventures.
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">350 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Boys Winter Parka',350)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="boy_product_2"
+            data-name="Colorful Puffer Boys Jacket">
+            <img src="Images/boy/jacket2.webp" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Colorful Puffer Boys Jacket </h5>
+              <p class="card-text">
+                Bold and Bright Puffer Jacket with Contrasting Colors and Quilted Design
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">450 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Colorful Puffer Boys Jacket',450)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="boy_product_3"
+            data-name="Orange Puffer Boys Jacket">
+            <img src="Images/boy/jacket3.png" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Orange Puffer Boys Jacket</h5>
+              <p class="card-text">
+                Cozy Orange Puffer Jacket with Faux Fur Trimmed Hood
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">300 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Orange Puffer Boys Jacket',300)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container mt-5" id="girls-section">
+      <h1 class="penguin-catagory">Girls Jacket</h1>
+      <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="girls_product_1"
+            data-name="Pink Puffer Coat Girls">
+            <img src="Images/girl/jacket1.png" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Pink Puffer Coat Girls</h5>
+              <p class="card-text">
+                Cozy Pink Puffer Coat with Faux Fur Trimmed Hood
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">350 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Pink Puffer Coat Girls',350)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="girls_product_2"
+            data-name="Girls Colorful Puffer Jacket">
+            <img src="Images/girl/jacket2.webp" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Girls Colorful Puffer Jacket</h5>
+              <p class="card-text">
+                Bold and Bright Puffer Jacket with Contrasting Colors and Quilted Design
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">450 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Girls Colorful Puffer Jacket',450)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 penguin-card-border shadow rounded" id="girls_product_3"
+            data-name="Girls Pink Puffer Jacket">
+            <img src="Images/girl/jacket3.webp" class="card-img-top penguin-card-img w-75" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Girls Pink Puffer Jacket</h5>
+              <p class="card-text">
+                Girls Pink Puffer Jacket is a warm and stylish winter coat with a cozy faux fur hood.
+              </p>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center penguin-card-footer">
+              <div>
+                <h3 class="price-text-style">300 DHs</h3>
+              </div>
+              <div>
+                <button type="button" class="btn penguin-btn" onclick="logPurchase('Girls Pink Puffer Jacket',300)">
+                  <i class="fa fa-shopping-cart"></i> BUY NOW
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!--Some information section-->
+    <section class="container mt-5 pt-5">
+      <div class="pt-2 pb-5 container">
+        <div class="row d-flex align-items-center flex-column-reverse flex-lg-row">
+          <div class="col-md-6 px-3">
+            <div class="card mb-3 penguin-card-border shadow" style="max-width: 540px;">
+              <div class="row g-0">
+                <div class="col-md-3">
+                  <img src="icon/image 12.png" class="w-50 penguin-info" alt="..." />
+                </div>
+                <div class="col-md-9">
+                  <div class="card-body">
+                    <h5 class="card-title">Find the Perfect Fit</h5>
+                    <p class="card-text">
+                      Everybody is different, which is why we offer styles for
+                      every body.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card mb-3 penguin-card-border shadow" style="max-width: 540px;">
+              <div class="row g-0">
+                <div class="col-md-3">
+                  <img src="icon/image 13.png" class="w-50 penguin-info" alt="..." />
+                </div>
+                <div class="col-md-9">
+                  <div class="card-body">
+                    <h5 class="card-title">Free Exchanges</h5>
+                    <p class="card-text">
+                      One of the many reasons you can shop with peace of mind.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card mb-3 penguin-card-border shadow" style="max-width: 540px;">
+              <div class="row g-0">
+                <div class="col-md-3">
+                  <img src="icon/image 14.png" class="w-50 penguin-info" alt="..." />
+                </div>
+                <div class="col-md-9">
+                  <div class="card-body">
+                    <h5 class="card-title">Contact Our Seller</h5>
+                    <p class="card-text">
+                      They are here to help you. That's quite literally what
+                      we pay them for.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 how-img px-5">
+            <img src="icon/XMLID 1.png" class="img-fluid" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!--Footer section-->
+  <section class="footer-section">
+    <div class="container pb-5">
+      <div class="row">
+        <div id="about-us" class="col-sm pe-5 pt-3">
+          <img src="Images/logo3.png" alt="" class="penguin-logo img-fluid" />
+          <hr />
+          <p>
+            Changing the way you dress will change the way you feel. When you
+            are well dressed and look good you will automatically feel better.
+            When you feel good about yourself, you are more likely to feel
+            good inside, treat others better, and have more energy.
+          </p>
+        </div>
+        <div id="contact-us" class="col-sm pe-5 pt-3">
+          <h5>Contact us:</h5>
+          <hr />
+          <p>
+            <i class="fa fa-map-marker fa-1x"> </i>Rabat, Morocco
+          </p>
+          <p>
+            <i class="fa fa-envelope-open"></i>
+            chaima@gmail.com
+          </p>
+          <p><i class="fa fa-phone"></i> +212 685987845</p>
+        </div>
+        <div class="col-sm pe-5 pt-3">
+          <div>
+            <h5>Get in Touch</h5>
+            <hr />
+            <i class="fa fa-facebook-square fa-2x pe-3"> </i>
+            <i class="fa fa-twitter-square fa-2x pe-3"></i>
+            <i class="fa fa-linkedin fa-2x pe-3"></i>
+          </div>
+          <div class="pt-5">
+            <h5>Pay with</h5>
+            <hr />
+            <img src="icon/pay.png" class="w-75" alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <hr />
+      <p class="text-center">
+        © Winter Fashion 2024, all rights reserved by BOUTOU Chaima
+      </p>
+    </footer>
+  </section>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="scriptlog.js"></script>
+
+
+
+</body>
+
+</html>

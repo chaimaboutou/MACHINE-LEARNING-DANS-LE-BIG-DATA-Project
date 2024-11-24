@@ -1,0 +1,6 @@
+2024/11/23 19:45:13 | Product purchased | Orange Puffer Boys Jacket | 1 | 300
+2024/11/23 19:45:22 | Product purchased | Pink Puffer Coat Girls | 1 | 350
+2024/11/23 19:45:26 | Hovered over | Pink Puffer Coat Girls | 1
+2024/11/23 19:45:36 | Hovered over | Girls Colorful Puffer Jacket | 1
+2024/11/23 19:45:48 | Hovered over | Girls Colorful Puffer Jacket | 1
+2024/11/23 19:45:52 | Hovered over | Girls Colorful Puffer Jacket | 1
